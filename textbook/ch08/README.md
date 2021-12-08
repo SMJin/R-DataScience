@@ -8,5 +8,16 @@
 ###### 자료를 "구간"으로 나눔 
 ![inline-block](./img/ch08-02.png)
 
-# 02-multiple graph ([다중그래프 LAB](./Ch08-03-multipleGraph.R))
+# 03-multiple graph ([다중그래프 LAB](./Ch08-03-multipleGraph.R))
 ![inline-block](./img/ch08-03.png)
+
+
+# 04-practise ([실전분석](./Ch08-04-practise.R))
+![inline-block](./img/ch08-04-1.png)
+![inline-block](./img/ch08-04-2.png)
+![inline-block](./img/ch08-04-3.png)
+
+
+# 05-exercise ([연습문제](./Ch08-05-exercise.R))
+![inline-block](./img/ch08-05-1.png)
+![inline-block](./img/ch08-05-2.png)

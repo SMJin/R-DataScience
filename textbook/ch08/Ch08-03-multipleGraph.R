@@ -1,3 +1,7 @@
+### chapter 08 기본 그래프 작성하기 I
+
+# 3. 다중그래프 LAB
+
 install.packages('carData')
 library(carData)
 ds <- Chile
