@@ -19,5 +19,17 @@
 
 
 # 05-exercise ([연습문제](./Ch08-05-exercise.R))
-![inline-block](./img/ch08-05-1.png)
+###### 02
 ![inline-block](./img/ch08-05-2.png)
+###### 03
+![inline-block](./img/ch08-05-3.png)
+###### 04
+![inline-block](./img/ch08-05-4.png)
+###### 05
+![inline-block](./img/ch08-05-5.png)
+###### 06
+![inline-block](./img/ch08-05-6.png)
+###### 08
+![inline-block](./img/ch08-05-8.png)
+###### 09
+![inline-block](./img/ch08-05-9.png)
