@@ -7,3 +7,5 @@
 # [Chapter 08 기본 그래프 작성하기 I](./textbook/ch08)
 
 # [Chapter 09 기본 그래프 작성하기 II](./textbook/ch09)
+
+# [Chapter 10 데이터 탐색하기](./textbook/ch10)
